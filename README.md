@@ -1,5 +1,3 @@
-# human-gender-detector
-Real-time human detection, tracking, and gender classification with YOLOv8, EfficientNetV2-L, and ByteTrack.
 # Real-Time Gender Tracker  
 
 🚀 **Real-time human detection, tracking, and gender classification** using **YOLOv8**, **EfficientNetV2-L**, and **ByteTrack**.  
@@ -49,6 +47,13 @@ This project combines state-of-the-art object detection and tracking with a cust
 
 ---
 
+## 🚀 Demo  
+You can **test the model live on Hugging Face**:  
+
+👉 [**Try the Demo Here**](https://zain1133604-gender-classification-tracker.hf.space/docs)  
+
+---
+
 ## 🚀 Results  
 📌 The model can:  
 - Detect humans in real-time.  
@@ -56,13 +61,6 @@ This project combines state-of-the-art object detection and tracking with a cust
 - Classify gender for each tracked person.  
 
 🎥 Example demo video available soon.  
-
----
-
-## 📂 Future Work  
-- Deploy model on **Hugging Face Spaces**.  
-- Release complete training + inference **code on GitHub**.  
-- Extend pipeline for **age classification** or **multi-attribute recognition**.  
 
 ---
 
