@@ -13,7 +13,7 @@ This project is a **real-time human detection, tracking, and gender classificati
 - 👨‍🦰 **EfficientNetV2-L** (trained on 180k+ images) for gender classification  
 - 🔄 Integrated into one pipeline to **detect, track, and classify humans in real-time videos**  
 
-We are reusing the **pre-trained gender classification model** from our [Gender Classification Repository](#) (trained earlier on a custom dataset), and combining it with YOLOv8 and ByteTrack.  
+We are reusing the **pre-trained gender classification model** from our [Gender Classification Repository](https://github.com/zain1133604/efficientnetv2-gender-classification) (trained earlier on a custom dataset), and combining it with YOLOv8 and ByteTrack.  
 
 ---
 
