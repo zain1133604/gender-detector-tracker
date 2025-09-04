@@ -8,7 +8,7 @@
 ## 📌 Overview  
 
 This project is a **real-time human detection, tracking, and gender classification system** built using:  
-- 🧠 **YOLOv8** for human detection  
+- 🧠 **YOLOv8L** (trained on 95k+ images) for human detection
 - 🎯 **ByteTrack** for multi-object tracking  
 - 👨‍🦰 **EfficientNetV2-L** (trained on 180k+ images) for gender classification  
 - 🔄 Integrated into one pipeline to **detect, track, and classify humans in real-time videos**  
@@ -25,7 +25,7 @@ We are reusing the **pre-trained gender classification model** from our [Gender 
 
 ## 🧠 What I Learned  
 During this project, I learned:  
-- ✅ The basics of **object detection** using YOLOv8.  
+- ✅ Working with **object detection** using YOLOv8.  
 - ✅ How to use **ByteTrack** to assign IDs and track people across frames.  
 - ✅ The difference between **Ultralytics YOLO training system** and raw **PyTorch training**.  
 - ✅ How to **combine multiple models** (detector + tracker + classifier) in one pipeline.  
